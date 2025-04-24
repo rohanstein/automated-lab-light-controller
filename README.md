@@ -21,7 +21,8 @@ In my Ph.D. research, I work with bacteria that require controlled light exposur
 - **Scrap parts from dismantled automations** The actuator was put together using scrap parts, zip-ties, etc. lying around with me from a dismantled rig. 
 
 ## 📸 Images
-Final set up: 
+Final set up: https://github.com/rohanstein/automated-lab-light-controller/blob/main/actuator_setup.jpg?raw=true
+Actuator controlling light exposure to bacterial samples: 
 
 
 ## 💡 What I Learned
