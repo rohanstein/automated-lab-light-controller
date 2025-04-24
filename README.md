@@ -22,8 +22,7 @@ In my Ph.D. research, I work with bacteria that require controlled light exposur
 
 ## 📸 Images
 Final set up: https://github.com/rohanstein/automated-lab-light-controller/blob/main/actuator_setup.jpg?raw=true
-Actuator controlling light exposure to bacterial samples: 
-
+Actuator controlling light exposure to bacterial samples: https://github.com/rohanstein/automated-lab-light-controller/blob/main/actuator_controlling_light%20exposure.jpg?raw=true
 
 ## 💡 What I Learned
 
